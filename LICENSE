@@ -5,76 +5,72 @@ All Rights Reserved.
 
 ## 1. Ownership
 
-Meda, including its application, source code, software components, interface design, visual elements, branding, name, logo, and associated materials, is owned by Meda Project or its respective rights holders and is protected by applicable copyright and intellectual property laws.
+Meda, including its application, original source code, software components, interface design, visual elements, branding, name, logo, and associated materials, is owned by Meda Project or its respective rights holders and is protected by applicable intellectual property laws.
 
-Meda is proprietary software. Public visibility or availability of its source code does not make Meda open-source software and does not grant general rights to use, modify, redistribute, or commercially exploit it.
+Meda is proprietary software. It is not open-source software.
 
 ## 2. Permitted Use
 
 Users are permitted to:
 
-- Download and install official Meda releases free of charge.
-- Use Meda for personal purposes and their own work activities.
-- Chat with Meda, ask questions, generate code, explore ideas, and perform everyday tasks.
-- View Meda's publicly available source code.
-- Download a copy of the publicly available source code solely for personal inspection, review, and evaluation.
-- Use content generated through Meda for their own purposes, subject to applicable law and the terms of the underlying AI models or services.
+- Download and install official Meda releases.
+- Run Meda for personal use.
+- Use the features provided by the official application.
+- Use generated content subject to applicable law and the terms of the underlying AI models and services.
 
-The permission to view and download source code is limited to inspection and evaluation. It does not grant permission to use, modify, reproduce, distribute, integrate, or commercially exploit Meda's proprietary source code.
+This license does not grant users access to, or permission to use, Meda's proprietary source code.
 
 ## 3. Restrictions
 
 Without prior written permission from Meda Project, users may not:
 
-- Copy or reproduce Meda's proprietary source code beyond the limited downloading permitted under Section 2.
-- Redistribute, sublicense, rent, or sell Meda or its proprietary source code.
-- Repackage Meda, bundle it with another product, or distribute it as part of another application or service.
-- Modify, adapt, rebrand, compile for redistribution, or publish derivative versions of Meda as their own product.
-- Integrate Meda's proprietary source code or original software components into another project, product, or service.
-- Publish, license, or commercially exploit Meda's proprietary source code or original software components.
+- Copy, reproduce, publish, or distribute Meda's proprietary source code.
+- Modify, adapt, or create derivative versions of Meda.
+- Repackage, redistribute, sublicense, rent, or sell Meda.
+- Integrate Meda's proprietary components into another product, application, or service.
+- Use Meda or its proprietary components as part of an unauthorized commercial product or service.
+- Remove or alter copyright, ownership, or licensing notices.
 - Claim ownership of Meda, its branding, or its original software components.
-- Obtain or distribute private source code through unauthorized means.
-- Reverse engineer, decompile, or disassemble the software, except where applicable law does not permit such restrictions.
+- Obtain, disclose, or distribute private source code through unauthorized means.
+- Reverse engineer, decompile, or disassemble Meda, except where applicable law does not permit such restrictions.
 
-### Source Code Protection
+## 4. Source Code and Intellectual Property
 
-Meda's source code, interface design, visual elements, name, logo, and original software components are protected by copyright and other applicable intellectual property laws.
+Meda's proprietary source code is not included in the official user distribution package.
 
-Public access to Meda's source code is provided solely for viewing, inspection, and evaluation. Access to or possession of a downloaded copy does not grant any additional rights.
+The application package is provided for running the software, not for accessing or obtaining its development source code.
 
-No person or organization may copy, modify, redistribute, publish, sell, sublicense, integrate, adapt, or create derivative works from Meda's proprietary source code without prior written permission from Meda Project, except to the extent such restrictions are prohibited by applicable law.
+Any unauthorized possession, copying, publication, modification, distribution, sale, or commercial exploitation of Meda's proprietary source code is prohibited, subject to applicable law.
 
-All permissions beyond those expressly granted in this license must be obtained in writing from Meda Project, subject to applicable law and the rights of third-party components.
+Access to an application package does not grant ownership of, or additional rights to, its underlying source code.
 
-## 4. Generated Content
+## 5. Generated Content
 
 This license governs the Meda software itself. It does not claim ownership of users' original inputs or generated outputs.
 
 Ownership and permitted use of generated content may depend on applicable law and the licenses or terms of the underlying AI models and services.
 
-## 5. Third-Party Components
+## 6. Third-Party Components
 
-Meda may include or use third-party software, open-source libraries, and services. Those components remain subject to their respective licenses and terms.
+Meda may include or use third-party software, libraries, open-source components, and services.
 
-Third-party licenses apply only to their respective components and do not grant rights over Meda's original source code, interface design, branding, or other proprietary materials.
+Those components remain subject to their respective licenses and terms. This license does not replace or override third-party licenses.
 
-This license does not replace or override third-party licenses.
-
-## 6. No Warranty
+## 7. No Warranty
 
 Meda is provided "AS IS", without warranties of any kind, to the maximum extent permitted by applicable law.
 
 Meda Project does not guarantee uninterrupted operation, accuracy, or suitability for every purpose.
 
-## 7. Termination
+## 8. Termination
 
 Permission to use Meda may be terminated if these terms are materially violated, subject to applicable law.
 
-## 8. Permission Requests
+## 9. Permission Requests
 
-For commercial redistribution, modification, sublicensing, integration, repackaging, or other uses requiring authorization, contact Meda Project through its officially published communication channels.
+Requests for modification, redistribution, commercial use, integration, sublicensing, or other uses requiring authorization must be submitted through Meda Project's officially published communication channels.
 
-## 9. Reservation of Rights
+## 10. Reservation of Rights
 
 All rights not expressly granted in this license are reserved by Meda Project, subject to applicable law and the rights of third-party components.
 
