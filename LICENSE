@@ -29,6 +29,15 @@ Without prior written permission from Meda Project, users may not:
 - Obtain or distribute private source code through unauthorized means.
 - Reverse engineer, decompile, or disassemble the software, except where applicable law does not permit such restrictions.
 
+### Source Code Protection
+
+No person or organization is permitted to use, copy, modify, compile, integrate, adapt, or create derivative works from Meda's proprietary source code without prior written permission from Meda Project.
+
+Access to or possession of a copy of Meda's source code does not, by itself, grant permission to use, modify, reproduce, or distribute it.
+
+All permissions must be expressly granted in writing by Meda Project, subject to applicable law and the rights of third-party components.
+
+
 ## 4. Generated Content
 
 This license governs the Meda software itself. It does not claim ownership of users' original inputs or generated outputs.
